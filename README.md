@@ -1,7 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3ankin&show_icons=true&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=3ankin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=3ankin&layout=compact&card_width=300)
+<!-- ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=3ankin&layout=compact&card_width=450) -->
 
 
